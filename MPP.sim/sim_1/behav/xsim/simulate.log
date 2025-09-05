@@ -1,0 +1,45 @@
+Time resolution is 1 ps
+NO DEPENDENCY ANDI 	success!
+
+NO DEPENDENCY NOR  	success!
+
+NO DEPENDENCY SLT  	success!
+
+NO DEPENDENCY SLL  	success!
+
+NO DEPENDENCY SRL  	success!
+
+NO DEPENDENCY SRA  	success!
+
+NO DEPENDENCY XOR  	success!
+
+NO DEPENDENCY MULT 	success!
+
+NO DEPENDENCY DIV  	success!
+
+ANDI No Forwarding       success!
+
+Forward EX/MEM to EX B   success!
+
+Forward MEM/WB to EX A	success!
+
+SLL  No Forwarding		success!
+
+Forward EX/MEM to EX A	success!
+
+Forward MEM/WB to EX A	success!
+
+XOR  No Forwarding		success!
+
+MULT No Forwarding		success!
+
+Forward MEM/WB to EX B	success!
+
+DATA HAZARD RS DEPENDENCY    success!
+
+DATA HAZARD RT DEPENDENCY	success!
+
+CONTROL HAZARD BRANCH	success!
+
+CONTROL HAZARD JUMP	success!
+

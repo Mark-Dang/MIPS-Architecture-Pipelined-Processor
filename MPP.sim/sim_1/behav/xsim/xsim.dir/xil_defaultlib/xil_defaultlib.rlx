@@ -1,0 +1,24 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+C:/Users/Owner/Desktop/Lab4/Lab4.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/ALU.v,1741233383,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/ALUControl.v,,ALU,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/ALUControl.v,1741393481,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/EX_Forwarding_unit.v,,ALUControl,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/EX_Forwarding_unit.v,1741395288,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/EX_pipe_stage.v,,EX_Forwarding_unit,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/EX_pipe_stage.v,1741396760,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/Hazard_detection.v,,EX_pipe_stage,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/Hazard_detection.v,1741247796,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/ID_pipe_stage.v,,Hazard_detection,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/ID_pipe_stage.v,1741338346,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/IF_pipe_stage.v,,ID_pipe_stage,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/IF_pipe_stage.v,1741253686,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/control.v,,IF_pipe_stage,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/control.v,1741233383,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/data_memory.v,,control,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/data_memory.v,1741233383,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/instruction_mem.v,,data_memory,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/instruction_mem.v,1741233557,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/mips_32.v,,instruction_mem,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/mips_32.v,1741400731,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/mux.v,,mips_32,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/mux.v,1741233383,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/mux4.v,,mux2,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/mux4.v,1741233383,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/pipe_reg.v,,mux4,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/pipe_reg.v,1741233384,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/pipe_reg_en.v,,pipe_reg,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/pipe_reg_en.v,1741233384,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/register_file.v,,pipe_reg_en,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/register_file.v,1741337062,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/sign_extend.v,,register_file,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/sign_extend.v,1741233383,verilog,,C:/Users/Owner/Desktop/Lab4_file_uploaded 3/tb_mips_32.v,,sign_extend,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/tb_ID_pipe_stage.v,1741338429,verilog,,,,tb_ID_pipe_stage,,,,,,,,
+C:/Users/Owner/Desktop/Lab4_file_uploaded 3/tb_mips_32.v,1741398206,verilog,,,,tb_mips_32,,,,,,,,
